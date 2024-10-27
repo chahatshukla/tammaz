@@ -2,7 +2,7 @@
 <header>
     <div class="container">
         <div class="header-content">
-            <a href="./" class="logo">Chahat</a>
+            <a href="./" class="logo">Chahat Shukla</a>
         </div>
     </div>
 </header>
